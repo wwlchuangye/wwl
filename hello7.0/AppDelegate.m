@@ -88,6 +88,10 @@
 	[window_ makeKeyAndVisible];
 	
 	return YES;
+    
+    
+    
+//    sdfasdf
 }
 
 // Supported orientations: Landscape. Customize it for your own needs
