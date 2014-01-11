@@ -133,6 +133,7 @@
 		5C1795F418294CC3007664E0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C1795F318294CC3007664E0 /* AppDelegate.m */; };
 		5C1795F718294CC3007664E0 /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C1795F618294CC3007664E0 /* HelloWorldLayer.m */; };
 		5C1795FA18294CC3007664E0 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C1795F918294CC3007664E0 /* IntroLayer.m */; };
+		5CE82B6E18811F59002E40F9 /* aaabb.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CE82B6D18811F59002E40F9 /* aaabb.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -398,6 +399,8 @@
 		5C1795F618294CC3007664E0 /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		5C1795F818294CC3007664E0 /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		5C1795F918294CC3007664E0 /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		5CE82B6C18811F59002E40F9 /* aaabb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aaabb.h; sourceTree = "<group>"; };
+		5CE82B6D18811F59002E40F9 /* aaabb.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaabb.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -465,6 +468,8 @@
 				5C17947B18294CC1007664E0 /* Resources */,
 				5C17949518294CC1007664E0 /* libs */,
 				5C1795EE18294CC3007664E0 /* Supporting Files */,
+				5CE82B6C18811F59002E40F9 /* aaabb.h */,
+				5CE82B6D18811F59002E40F9 /* aaabb.m */,
 			);
 			path = hello7.0;
 			sourceTree = "<group>";
@@ -959,6 +964,7 @@
 				5C17957618294CC2007664E0 /* CCTouchHandler.m in Sources */,
 				5C1795DC18294CC3007664E0 /* mat4.c in Sources */,
 				5C1795E018294CC3007664E0 /* plane.c in Sources */,
+				5CE82B6E18811F59002E40F9 /* aaabb.m in Sources */,
 				5C1794B418294CC1007664E0 /* CCActionPageTurn3D.m in Sources */,
 				5C1795F118294CC3007664E0 /* main.m in Sources */,
 				5C1795FA18294CC3007664E0 /* IntroLayer.m in Sources */,
@@ -1118,6 +1124,7 @@
 				5C1795FF18294CC3007664E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
